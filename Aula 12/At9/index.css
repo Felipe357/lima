@@ -22,12 +22,60 @@ html, body{
     font-size: 30px;
 }
 
-.barraCima{
-    background-color: rgb(199, 88, 88);
-    height: 5%;
+.fundo{
+    margin-top: 6%;
     width: 100%;
-    margin-top: 5%;
+    height: 80%;
+    background-image: url(Fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.barraCima{
+    background-color: rgba(179, 173, 173, 0.514);
+    height: 6%;
+    width: 100%;
+    margin-top: -40.4%;
+}
+
+.left{
+    display: flex;
+    align-items: center;
+}
+
+.left > h1 , p{
+    color: aliceblue;
+    margin-left: 30px;
+}
+
+.left > img{
+    height: 60px;
+}
+
+.right{
     display: flex;
     justify-content: flex-end;
-    align-items: center;
+    margin-top: -40px;
+    margin-right: 10px;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+.baixo{
+    margin-left: 700px;
+    margin-top: 33.5%;
+}
+
+.barraBaixo > img{
+    margin-top: 1%;
+    height: 86%;
+    width: auto;
+    margin-left: 10px;
+}
+
+.barraBaixo{
+    background-color: rgba(179, 173, 173, 0.514);
+    height: 7%;
+    width: 40%;
+    border-radius: 20px;
 }
