@@ -76,6 +76,9 @@ html, body{
 .barraBaixo{
     background-color: rgba(179, 173, 173, 0.514);
     height: 7%;
-    width: 40%;
+    width: 50%;
     border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
