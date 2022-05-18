@@ -3,5 +3,16 @@
 }
 
 .feijao2{
-    height: 487px;
+    height: 10000px;
+}
+
+.pigola{
+    display: flex;
+    position: sticky;
+    top: 20px;
+}
+
+.moli{
+    margin-top: 80px;
+    margin-left: 25%;
 }
