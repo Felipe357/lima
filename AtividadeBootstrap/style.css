@@ -1,14 +1,10 @@
 .card{
-    margin-left: 200px;
     margin-top: 90px;
     height: 500px;
     width: 200px;
     border-radius: 20px;
 }
 
-.cb{
-    
-}
 
 .alt{
     margin-top: -17px;
@@ -18,10 +14,7 @@
     background-color: #e5e5e5;
     display: flex;
     height: 700px;
-}
-
-.im{
-    
+    justify-content: space-around;
 }
 
 .container {
