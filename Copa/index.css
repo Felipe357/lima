@@ -5,10 +5,11 @@
 .body{
     max-width: 100vw;
     max-height: 100vh;
+
 }
 .tudo{
-    height: 100vh;
-    width: 100vw;
+    height: 150px;
+    width: 350px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -30,7 +31,15 @@
                 250px 130px white,
                 200px 50px white,
                 150px 100px white,
-                320px 100px white;
+                320px 100px white,
+                50px 300px white,
+                100px 180px white,
+                80px 180px white,
+                300px 60px white,
+                250px 160px white,
+                200px 190px white,
+                150px 100px white,
+                320px 130px white;
     animation: animation-stars 10s linear infinite; 
 }
 .stars::after{
@@ -46,7 +55,16 @@
                 250px 130px white,
                 200px 50px white,
                 150px 100px white,
-                320px 100px white;
+                320px 100px white,
+                50px 300px white,
+                100px 180px white,
+                80px 180px white,
+                300px 60px white,
+                250px 160px white,
+                200px 190px white,
+                150px 100px white,
+                320px 130px white;
+                
   }
 
   .stars2{
